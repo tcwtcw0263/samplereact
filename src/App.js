@@ -3,7 +3,7 @@ import Page1 from './components/Page1';
 import Page2 from './components/Page2';
 import Page3 from './components/Page3';
 // import { Provider } from 'react-redux';
-// commment login page
+// commment login page welcome vishnu
 import Provider from 'react-redux/es/components/Provider';
 import { BrowserRouter, Route, Link, Switch, Redirect } from "react-router-dom";
 import store from '../src/components/store'
